@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740 (ID=0xfc8)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\51\Documents\Checkpoints\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\51\Documents\Checkpoints\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\51\Documents\Checkpoints\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.352636 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2388 -> priority: 1 
+  Thread -> id: 1f14 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.490523 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 240.
+Total: 0.171456 ms (FindLiveObjects: 0.031091 ms CreateObjectMapping: 0.019319 ms MarkObjects: 0.114405 ms  DeleteObjects: 0.005735 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.383060 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.129799 ms (FindLiveObjects: 0.020526 ms CreateObjectMapping: 0.020828 ms MarkObjects: 0.079389 ms  DeleteObjects: 0.008753 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.438603 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 241.
+Total: 0.131912 ms (FindLiveObjects: 0.019319 ms CreateObjectMapping: 0.020224 ms MarkObjects: 0.086935 ms  DeleteObjects: 0.004829 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.366760 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.135233 ms (FindLiveObjects: 0.022941 ms CreateObjectMapping: 0.020828 ms MarkObjects: 0.081804 ms  DeleteObjects: 0.009357 ms)
+
